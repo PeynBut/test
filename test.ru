@@ -11,5 +11,5 @@ def get_user_input(prompt)
     end
   end
   
-  grade = get_user_input("Sheeeshhhh:  ")
+  grade = get_user_input("enter shit:  ")
   check_passing_grade(grade.to_i)
